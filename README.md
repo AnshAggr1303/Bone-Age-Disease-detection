@@ -17,11 +17,17 @@ An advanced AI-powered system for bone age prediction using hand X-ray images. B
 
 ## 📸 Screenshots
 
-<div align="center">
-  <img src="screenshots/boneage1.png" width="30%" style="margin: 10px;">
-  <img src="screenshots/boneage2.png" width="30%" style="margin: 10px;">
-  <img src="screenshots/boneage3.png" width="30%" style="margin: 10px;">
-</div>
+<p align="center">
+  <img src="screenshots/boneage1.png" width="60%" style="margin: 20px 0;" />
+</p>
+
+<p align="center">
+  <img src="screenshots/boneage2.png" width="60%" style="margin: 20px 0;" />
+</p>
+
+<p align="center">
+  <img src="screenshots/boneage3.png" width="60%" style="margin: 20px 0;" />
+</p>
 
 ---
 
