@@ -25,3 +25,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# backend Python-specific ignores
+/backend/venv/
+/backend/fine_tuned_model.keras
+/backend/__pycache__/
+
+# unused lock file
+pnpm-lock.yaml
